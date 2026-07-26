@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Fabrício Bittencourt - Advocacia de Família e Sucessões",
+  "description": "Landing page de alta conversão para advocacia em Direito de Família e Inventário Judicial (Pensão Alimentícia, Guarda, Alimentos e Sucessões).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -7,8 +7,8 @@
  */
 
 export const TRACKING_CONFIG = {
-  // Substitua com seu ID do Google Tag Manager (ex: 'GTM-XXXXXX')
-  GTM_ID: "",
+  // Google Tag Manager ID
+  GTM_ID: "GTM-JRNHH2X3",
 
   // Substitua com seu ID de Medição do Google Analytics 4 (ex: 'G-XXXXXXXXXX')
   GA4_MEASUREMENT_ID: "",
